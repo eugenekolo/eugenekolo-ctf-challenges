@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music.wav</file>
+        <file>kickass.qml</file>
+        <file>particle2.png</file>
+        <file>shell2.png</file>
+    </qresource>
+</RCC>

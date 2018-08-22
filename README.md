@@ -1,3 +1,9 @@
+# Eugene Kolo's CTF Challenges
+CTF challenges that I created for various competitions. Includes the source code, and solution to 
+them.
+A brief summary of each, a personal rating of how good they are, and a personal rating of 
+difficulty for each challenge is provided.
+
 ## Challenges
 Name | CTF | Summary | Rating | Difficulty
 ---  | ---      | ---     | ---    | ---        |
@@ -7,9 +13,10 @@ Name | CTF | Summary | Rating | Difficulty
 [farm-sim](farm-sim) | MITRE STEM CTF 2018 | Custom (poor) heap allocator exploitation | ★★★★★ | 💀💀 
 [cutie-keygen](cutie-keygen) | BKP 2017 | Reverse engineer a C++ Qt app using crypto | ★★★★★ | 💀💀💀 
 [rop-101](rop-101) | MITRE STEM CTF 2017 | Three phase ROP intro | ★★★★☆ | 💀 
-[pygolf](pygolf) | MITRE STEM CTF 2017 | Blah blah blah blah blah | ★★★☆☆ | 💀 
-[tinyworld]() | MITRE STEM CTF 2016 | Blah blah blah blah blah | ★★★☆☆ | 💀💀 
-
+[pygolf](pygolf) | MITRE STEM CTF 2017 | Simple filter based python jail | ★★☆☆☆ | 💀 
+[tinyworld]() | MITRE STEM CTF 2016 | A pyjail allowing any env var to be set | ★★★☆☆ | 💀💀 
+[pyescape-yet-another](pyescape-yet-another) | Unreleased | Another python jail allowing only ```()+,.1=A-Za-z[]_~:`` | ★★★☆☆ | 💀💀
+[qr-code-intro](qr-code-intro) | Unreleased | Simple intro qr code scanning | 💀
 
 
 

