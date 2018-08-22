@@ -17,7 +17,3 @@ Name | CTF | Summary | Rating | Difficulty
 [tinyworld]() | MITRE STEM CTF 2016 | A pyjail allowing any env var to be set | ★★★☆☆ | 💀💀 
 [pyescape-yet-another](pyescape-yet-another) | Unreleased | Another python jail allowing only ```()+,.1=A-Za-z[]_~:`` | ★★★☆☆ | 💀💀
 [qr-code-intro](qr-code-intro) | Unreleased | Simple intro qr code scanning | 💀
-
-
-
-
