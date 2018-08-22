@@ -15,5 +15,5 @@ Name | CTF | Summary | Rating | Difficulty
 [rop-101](rop-101) | MITRE STEM CTF 2017 | Three phase ROP intro | ★★★★☆ | 💀 
 [pygolf](pygolf) | MITRE STEM CTF 2017 | Simple filter based python jail | ★★☆☆☆ | 💀 
 [tinyworld]() | MITRE STEM CTF 2016 | A pyjail allowing any env var to be set | ★★★☆☆ | 💀💀 
-[pyescape-yet-another](pyescape-yet-another) | Unreleased | Another python jail allowing only ```()+,.1=A-Za-z[]_~:`` | ★★★☆☆ | 💀💀
-[qr-code-intro](qr-code-intro) | Unreleased | Simple intro qr code scanning | 💀
+[pyescape-yet-another](pyescape-yet-another) | Unreleased | Another python jail allowing only `` `()+,.1=A-Za-z[]_~:`` | ★★★☆☆ | 💀💀
+[qr-code-intro](qr-code-intro) | Unreleased | Simple intro qr code scanning | ★☆☆☆☆ | 💀
