@@ -1,6 +1,6 @@
 ## Challenges
 Name | CTF | Summary | Rating | Difficulty
----  | ---      | ---     | ---    | ---        | ---      |
+---  | ---      | ---     | ---    | ---        |
 [tinyworld]() | MITRE STEM CTF 2016 | Blah blah blah blah blah | ★★★☆☆ | 💀💀 
 [cutie-keygen](cutie-keygen) | BKP 2017 | Reverse engineer a C++ Qt app using crypto | ★★★★★ | 💀💀💀 
 [rop-101](rop-101) | MITRE STEM CTF 2017 | Three phase ROP intro | ★★★★☆ | 💀 
