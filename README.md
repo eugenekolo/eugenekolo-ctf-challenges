@@ -14,6 +14,6 @@ Name | CTF | Summary | Rating | Difficulty
 [cutie-keygen](cutie-keygen) | BKP 2017 | Reverse engineer a C++ Qt app using crypto | ★★★★★ | 💀💀💀 
 [rop-101](rop-101) | MITRE STEM CTF 2017 | Three phase ROP intro | ★★★★☆ | 💀 
 [pygolf](pygolf) | MITRE STEM CTF 2017 | Simple filter based python jail | ★★☆☆☆ | 💀 
-[tinyworld]() | MITRE STEM CTF 2016 | A pyjail allowing any env var to be set | ★★★☆☆ | 💀💀 
+[tinyworld](tinyworld) | MITRE STEM CTF 2016 | A pyjail allowing any env var to be set | ★★★☆☆ | 💀💀 
 [pyescape-yet-another](pyescape-yet-another) | Private | Another python jail allowing only `` `()+,.1=A-Za-z[]_~:`` | ★★★☆☆ | 💀💀
 [qr-code-intro](qr-code-intro) | Private | Simple intro qr code scanning | ★☆☆☆☆ | 💀
