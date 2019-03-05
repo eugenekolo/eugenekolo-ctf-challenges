@@ -7,6 +7,8 @@ difficulty for each challenge is provided.
 ## Challenges
 Name | CTF | Summary | Rating | Difficulty
 ---  | ---      | ---     | ---    | ---        |
+[goose-ransomware](goose-ransomware) | MITRE STEM CTF 2019 | Reverse engineer obfuscated, multi stage golang ransomware | ★★★★☆ | 💀💀💀
+[goldfish-ransomware](goldfish-ransomware) | MITRE STEM CTF 2019 | Reverse engineer golang ransomware | ★★★★☆ | 💀💀
 [bluecode](bluecode) | MITRE STEM CTF 2018 | Reverse engineer Python matrix math | ★★★★☆ | 💀💀 
 [cwe-191-kitchen](cwe-191-kitchen) | MITRE STEM CTF 2018 | Three phase integer overflow intro | ★★★★☆ | 💀  
 [crack-zet3](crack-zet3) | MITRE STEM CTF 2018 | Reverse engineer C crackme requiring SMT intro | ★★★☆☆ | 💀
