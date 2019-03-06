@@ -1,0 +1,74 @@
+You're walking in what appears to be a dark moldy dungeon, or perhaps it's a 
+SCIF. You stumble upon an archaic set of seven segment displays connected to a
+mysterious black box circuit, and 20 switches. Luckily, somebody left the 
+schematic next to it. In order to proceed forward with your mission, you must 
+set the seven segment displays to 'FLAG'.
+   ___    ___    ___    ___  
+  |   |  |   |  |   |  |   |  
+  |___|  |___|  |___|  |___|  
+  |   |  |   |  |   |  |   |
+  |___|  |___|  |___|  |___|      
+    |      |      |      |
+ ___|______|______|______|______________
+|                                       |
+|     MAGIC!                            |
+|                                       |
+|_______________________________________|
+ | | | | | | | | | | | | | | | | | | | |
+ A B C D E F G H I J K L M N O P Q R S T
+
+Recall how a seven segment display works:
+    
+   _a_         ___         ___    ___
+ f|   |b      |     |     |   |  |
+  |_g_|       |___  |     |___|  |
+ e|   |c      |     |     |   |  |   |
+  |___|       |     |___  |   |  |___|
+    d
+
+Setting the segments to *high* enables them.
+
+Flag must be submitted as a list of which switches must be *on* in order for 
+the seven segment displays to display 'FLAG'. Example: "ACEFHJLNOQST".
+
+Schematic
+=========
+
+Light 1
+a = ~((A+B)G)
+b = (C+E)S
+c = QR
+d = I+(LA)
+e = H+I
+f = (FB)+~O
+g = ~((H+B)L)+G
+
+Light 2
+a = ~((Q+B)G)
+b = CS
+c = P~R
+d = E+G(LA)
+e = H+~I
+f = (F+J)+~O
+g = ~((J+B)E)+C
+
+Light 3
+a = 1
+b = S+E
+c = N
+d = I+(JK)
+e = HF
+f = F~T
+g = ~T
+
+Light 4
+a = ~G+M
+b = (A+B)MN
+c = QL
+d = L(~H+E)
+e = B+L
+f = (EB)+(QE)
+g = ~(BR+D)
+
+
+Switches for 'FLAG': ________________________________
