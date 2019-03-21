@@ -14,7 +14,7 @@ Name | CTF | Summary | Rating | Difficulty
 [crack-zet3](crack-zet3) | MITRE STEM CTF 2018 | Reverse engineer C crackme requiring SMT intro | ★★★☆☆ | 💀
 [farm-sim](farm-sim) | MITRE STEM CTF 2018 | Custom (poor) heap allocator exploitation | ★★★★★ | 💀💀 
 [cutie-keygen](cutie-keygen) | BKP 2017 | Reverse engineer a C++ Qt app using crypto | ★★★★★ | 💀💀💀 
-[paper-circuit](paper-circuit) | Reverse engineer a circuit with pen and paper | MTEM 2017 Conf | ★★★★★ | 💀
+[paper-circuit](paper-circuit) | MTEM 2017 | Conf Reverse engineer a circuit with pen and paper | ★★★★★ | 💀
 [rop-101](rop-101) | MITRE STEM CTF 2017 | Three phase ROP intro | ★★★★☆ | 💀 
 [pygolf](pygolf) | MITRE STEM CTF 2017 | Simple filter based python jail | ★★☆☆☆ | 💀 
 [tinyworld](tinyworld) | MITRE STEM CTF 2016 | A pyjail allowing any env var to be set | ★★★☆☆ | 💀💀 
